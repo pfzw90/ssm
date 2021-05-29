@@ -38,7 +38,7 @@ export default class Collapsible {
       button.addEventListener('click', (ev) => {
         ev.preventDefault();
         elem.classList.toggle('hidden');
-        elem.classList.toggle('visible')
+        elem.classList.toggle('visible');
       });
     }
   }
