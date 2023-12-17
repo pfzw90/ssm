@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hdfm250vkdqbnv80?svg=true)](https://ci.appveyor.com/project/pfzw90/ahj-css-animations-homework)
